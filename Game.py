@@ -12,12 +12,12 @@ def play(black_strategy, white_strategy):
         black,white=score(board)
         print("Black:",black,"White:",white)
         player = next_player(board, player)
-    return board, final_score(board)
-final_board,final_score=play(human_strategy,human_strategy)
+    return board, score_diff(player,board)
+final_board,score_diff=play(human_strategy,human_strategy)
 print(print_board(final_board))
-if final_score==0:
+if score_diff==0:
     print("*******************DRAW*************************")
-elif final_score>0:
-    print("*************YOU HAVE WON************************")
+elif score_diff>0:
+    print("*************WHITE WON,BLACK LOSE************************")
 else:
-    print("*************YOU LOSE****************************")
+    print("*************BLACK WON,WHITE LOSE****************************")
