@@ -18,3 +18,7 @@ Legal Moves:
           S Sindhu sree
 
 # File Structure
+Board.py - It contains the game board
+rules.py - It consists of othello rules and techniques
+Score.py - It displays the score of the two players after every move
+Game.py - The main entry port for the game
