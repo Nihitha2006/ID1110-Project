@@ -11,4 +11,9 @@ The game is played with black-and-white coins on an 8*8 board. The objective of 
 Legal Moves:
    A move to consider it as legal, a coin must be placed such that atleast one of the opponent coin should get flipped.
 
+#Group Members:
+N Nihitha
+N Sri Ganga
+S Sindhu sree
+
 # File Structure
