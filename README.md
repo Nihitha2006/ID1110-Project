@@ -13,8 +13,8 @@ Legal Moves:
 
 #Group Members:
 
-N Nihitha
-N Sri Ganga
-S Sindhu sree
+ N Nihitha                                                                                                                                                            
+ N Sri Ganga
+ S Sindhu sree
 
 # File Structure
