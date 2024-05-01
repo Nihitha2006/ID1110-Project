@@ -15,6 +15,6 @@ Legal Moves:
 
  N Nihitha                                                                                                                                                            
  N Sri Ganga
- S Sindhu sree
+  S Sindhu sree
 
 # File Structure
