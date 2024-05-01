@@ -15,7 +15,7 @@ Legal Moves:
 
  N Nihitha                                                                                                                                                            
  N Sri Ganga                                                                                                                                                                   
-          S Sindhu sree
+ S Sindhu sree
 
 # File Structure
 Board.py - It contains the game board
